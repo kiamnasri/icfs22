@@ -19,16 +19,16 @@ Usage Instructions
 The provided code follows a three-step process, utilizing MATLAB Simulink, MATLAB m-files, and the BASCOM AVR compiler. Follow these steps to execute the code properly:
 
 1. Fuzzy Logic Setup in MATLAB:
-    -Open the FUZZY_INVP_v4.fis file in MATLAB's Fuzzy Logic Toolbox.
-    -Apply the necessary settings and adjustments before proceeding.
+    * Open the FUZZY_INVP_v4.fis file in MATLAB's Fuzzy Logic Toolbox.
+    * Apply the necessary settings and adjustments before proceeding.
 2. MATLAB Code Execution:
-    -Run the FUZZY_INVP.m script in MATLAB.
-    -This script takes FUZZY_INVP_v4.fis as input and generates a text file named table.txt as output.
+    * Run the FUZZY_INVP.m script in MATLAB.
+    * This script takes FUZZY_INVP_v4.fis as input and generates a text file named table.txt as output.
 3. BASCOM AVR Compilation:
-    -Copy the generated table.txt file into the avr code folder.
-    -Open and compile the inv_fuzzy.bas file in the BASCOM AVR compiler.
-    -The compilation process generates a binary file with a .bin extension.
-    -Finally, use an AVR programmer to upload the .bin file to the AVR microcontroller.
+    * Copy the generated table.txt file into the avr code folder.
+    * Open and compile the inv_fuzzy.bas file in the BASCOM AVR compiler.
+    * The compilation process generates a binary file with a .bin extension.
+    * Finally, use an AVR programmer to upload the .bin file to the AVR microcontroller.
    
 By following these steps, the fuzzy controller will be successfully implemented on the AVR microcontroller.
 
