@@ -35,6 +35,7 @@ By following these steps, the fuzzy controller will be successfully implemented 
 ____________________________________________________________________________________
 
  Reference Link:
+ 
  APA: Rahmani, S., Nasri, K., & Jafari, A. H. (2023). Hardware implementation of fuzzy controller using the lookup table in 8-bit microcontroller for the stability of inverted pendulum system. In Proceedings of the 22nd Iranian Conference on Fuzzy Systems (pp. 1-10). Kerman, Iran. 
 
  IEEE: S. Rahmani, K. Nasri, and A. H. Jafari, "Hardware implementation of fuzzy controller using the lookup table in 8-bit microcontroller for the stability of inverted pendulum system," in Proceedings of the 22nd Iranian Conference on Fuzzy Systems, Kerman, Iran, 2023, pp. 1-10. 
